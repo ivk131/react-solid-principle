@@ -1,11 +1,10 @@
 import './App.css';
-import Test from './components/test';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="App">
-   React Solid principle
-   <Test/>
+      <Header />
     </div>
   );
 }
