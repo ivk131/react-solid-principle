@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Solid Principle
+SOLID is an acronym for five key software design principles that help you build better object-oriented (or component-based) systems.
+
+S — Single Responsibility Principle
+O — Open/Closed Principle
+L — Liskov Substitution Principle
+I — Interface Segregation Principle
+D — Dependency Inversion Principle
+
 ## Available Scripts
 
 In the project directory, you can run:
